@@ -1,0 +1,86 @@
+/* img {
+    mainh
+} */
+
+
+/* p {
+    color: aqua;
+} */
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.panela {
+    width: 883px;
+    height: 374px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 89px;
+    line-height: 79px;
+    color: #ffb300;
+}
+
+.semibold {
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.definição {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+}
+
+hr {
+    height: 5px;
+    color: #999999;
+    margin: 34px;
+}
+
+m {
+    color: black;
+    font-size: medium;
+    font-weight: 900;
+}
+
+.texto {
+    font-weight: 900;
+    color: #ffb300;
+}
+
+ul {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+}
+
+ol {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+}
+
+iframe {
+    width: 883px;
+    height: 497px;
+}
+
+.topo {
+    font-size: 21px;
+    font-weight: 900;
+    color: #0037B3;
+}
+
+img {
+    border-radius: 3px;
+    box-shadow: 5px 8px 20px #dfc00f;
+    margin: 25px 0;
+}
+
+
