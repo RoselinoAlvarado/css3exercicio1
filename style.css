@@ -1,11 +1,3 @@
-/* img {
-    mainh
-} */
-
-
-/* p {
-    color: aqua;
-} */
 html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-family: 'Montserrat', sans-serif;
@@ -83,4 +75,36 @@ img {
     margin: 25px 0;
 }
 
+header div {
+    max-width: 883px;
+}
+
+body {
+    background-color: rgb(247, 229, 205);
+}
+
+/* main {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+} */
+
+main {
+    margin-left: 28px;
+    width: 883px;
+}
+
+footer {
+    margin-left: 28px;
+    width: 883px;
+    text-align: center;
+    }
+
+aside {
+    margin-left: 28px;
+    width: 883px;
+    text-align: center;
+}
 
